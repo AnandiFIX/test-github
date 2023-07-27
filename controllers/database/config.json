@@ -1,0 +1,27 @@
+{
+  "development": {
+    "config_id": "development",
+    "MYSQL_HOST": "3.110.35.139",
+    "USER": "uat",
+    "PASSWORD": "uat@4321",
+    "DATABASE": "dev",
+    "SLA_URL": "http://localhost:9080/ifixSlaApplication",
+    "DOCU_URL": "http://localhost:9080/ifixDMApplication",
+    "MAIL_URL": "http://localhost:9080/IfixMailApplication",
+    "CONNECTION_LIMIT": 10,
+    "JWT_EXPIRY_TIME": 36000,
+    "REDIS_HOST": "127.0.0.1",
+    "REDIS_PORT": "6379",
+    "JWT_SECRET_TOKEN": "stupa@847admin#_qwerty",
+    "SECRET_TOKEN": "secret%stupa@auth.token#@",
+    "ACCESS_KEY_ID": "AKIA6ACHFP6R33UDIAXF",
+    "SECRET_ACCESS_KEY": "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",
+    "BUCKET_NAME": "ifix-uat",
+    "MONGODB_URL": "localhost:27017/ifix_notification?w=1",
+    "SLAVE_MYSQL_HOST": "3.110.35.139",
+    "SLAVE_USER": "uat",
+    "SLAVE_PASSWORD": "uat@4321"
+  }
+
+}
+

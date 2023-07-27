@@ -1,0 +1,106 @@
+
+[
+    {
+        "personalDetails":[
+            {
+                "cusName":"Abhishek",
+                "cusFatherName":"Anil Kumar Singh",
+                "address":"Gandhi Nagar",
+                "cusNum":"7366003360",
+                "email":"abhishek.aashu99@gmial.com"
+            }
+        ]
+    
+    },
+
+    {
+        "communicationAddress":[
+    
+            {
+                "houseNum":"23",
+                "locality":"Biran Bigha",
+                "street":"New G.T.Road",
+                "city":"Dehri-on-Sone",
+                "district":"Rohtas",
+                "pin":"821307"
+            }
+    
+        ]
+    },
+
+    {
+        "areaDetails":[
+    
+            {
+                "houseNum":"23",
+                "locality":"Biran Bigha",
+                "street":"New G.T.Road",
+                "city":"Dehri-on-Sone",
+                "district":"Rohtas",
+                "pin":"821307",
+                "landmark":"near Jio office",
+                "plotSize":"4752",
+                "coveredArea":"4650"
+            }
+    
+        ]
+    },
+
+    {
+        "supplyDetails":[
+    
+            {
+                "supplyCategory":"domestic",
+                "supplyPurpose":"Home Appliances",
+                "load":"2",
+                "supplyType":"temporary",
+                "specifyPeriod":"3 months"
+                
+            }
+    
+        ]
+    },
+
+    {
+        "connectionDetails":[
+
+            {
+                "cusNum":"7366003360",
+                "cusName":"Abhishek",
+                "supplyCircle":"??",
+                "Name of Utilities":"electricity",
+                "wantService":"yes",
+                "wantInstall":"yes"
+            }
+        ]
+    },
+
+    {
+        "documents":[
+
+            {
+                "affixedPhoto":"yes",
+                "idProof":"Adhaar",
+                "ownerProof":"Khata Nakal",
+                "otherDoc":"??",
+                "electricityDues":"yes",
+                "premisesDues":"no",
+                "distributedDues":"yes"
+            }
+        ]
+    },
+
+    {
+        "declaration":[
+
+            {
+                "date":"01/12/2021",
+                "signature":"Abhishek",
+                "place":"Jamshedpur"
+                
+            }
+        ]
+    }
+]
+
+

@@ -1,0 +1,1243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaa26e51-820d-4a6f-a8e7-ecb4b66f5b58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/PostController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51015">
+              <caret line="3501" column="15" selection-start-line="3501" selection-start-column="15" selection-end-line="3501" selection-end-column="15" />
+              <folding>
+                <element signature="e#136635#142182#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/MethodController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61695">
+              <caret line="4113" selection-start-line="4113" selection-end-line="4113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routeWay.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45240">
+              <caret line="3016" column="50" selection-start-line="3016" selection-start-column="50" selection-end-line="3016" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/database/DataAccess.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1955">
+              <caret line="38336" column="1" lean-forward="true" selection-start-line="38336" selection-start-column="1" selection-end-line="38336" selection-end-column="1" />
+              <folding>
+                <element signature="e#1694129#1703618#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package_json" />
+        <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mapModuleUserClient</find>
+      <find>getAttributesMstParentWise</find>
+      <find>uat</find>
+      <find>uat.</find>
+      <find>getCategoryReportUserWise</find>
+      <find>addNotification</find>
+      <find>case 27</find>
+      <find>data.clientId != '5'</find>
+      <find>data.clientId == '5'</find>
+      <find>deleteMapModuleRole</find>
+      <find>'75'</find>
+      <find>'30'</find>
+      <find>case 30</find>
+      <find>case 75</find>
+      <find>data.clientId == '6</find>
+      <find>data.clientId != '6</find>
+      <find>case 1:</find>
+      <find>case 1</find>
+      <find>'27'</find>
+      <find>getSscReportList</find>
+      <find>data.ticket_type_seq == 6</find>
+      <find>getTrendReport</find>
+      <find>insertAss</find>
+      <find>'421</find>
+      <find>'423</find>
+      <find>'84</find>
+      <find>'83</find>
+      <find>case 84</find>
+      <find>AdvanceSe</find>
+      <find>AdvancesearchTicket(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;</replace>
+      <replace>logData</replace>
+      <replace>ModuleController</replace>
+      <replace>util.logData</replace>
+      <replace>MethodController</replace>
+      <replace>DocumentController</replace>
+      <replace>offset == &quot;0&quot;</replace>
+      <replace>data.user_id</replace>
+      <replace>user_id</replace>
+      <replace>user_id:</replace>
+      <replace>&quot;user_id&quot;</replace>
+      <replace>data.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/controllers/database</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controllers/database/socket.js" />
+        <option value="$PROJECT_DIR$/socket.js" />
+        <option value="$PROJECT_DIR$/controllers/FaqController.js" />
+        <option value="$PROJECT_DIR$/middlewares/corsMiddleWare.js" />
+        <option value="$PROJECT_DIR$/middlewares/tokenMiddleWare.js" />
+        <option value="$PROJECT_DIR$/entryPoint.js" />
+        <option value="$PROJECT_DIR$/controllers/database/AdminAuthDB.js" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/node_modules/formidable/lib/incoming_form.js" />
+        <option value="$PROJECT_DIR$/controllers/util.js" />
+        <option value="$PROJECT_DIR$/node_modules/inspire/core/postForm.js" />
+        <option value="$PROJECT_DIR$/controllers/database/EscalatePrcessConfigDB.js" />
+        <option value="$PROJECT_DIR$/controllers/Entity/ChecklistEntity.js" />
+        <option value="$PROJECT_DIR$/controllers/database/AssetManagementColumnDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/AssetDescription.js" />
+        <option value="$PROJECT_DIR$/controllers/database/AssetManagementMasterDB.js" />
+        <option value="$PROJECT_DIR$/controllers/AutoTicketController.js" />
+        <option value="$PROJECT_DIR$/controllers/ChecklistController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/ChecklistDB.js" />
+        <option value="$PROJECT_DIR$/controllers/Entity/AssetManagementValueEntity.js" />
+        <option value="$PROJECT_DIR$/controllers/AssetManagementController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/AssetManagementValueDB.js" />
+        <option value="$PROJECT_DIR$/controllers/TicketTypeController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/UrlCreationDB.js" />
+        <option value="$PROJECT_DIR$/controllers/Entity/TicketTypeEntity.js" />
+        <option value="$PROJECT_DIR$/controllers/database/StatusDB.js" />
+        <option value="$PROJECT_DIR$/controllers/RoleController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/roleDB.js" />
+        <option value="$PROJECT_DIR$/controllers/Entity/RoleEntity.js" />
+        <option value="$PROJECT_DIR$/controllers/database/autoTicketDB.js" />
+        <option value="$PROJECT_DIR$/controllers/ChangeRequestController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/ChangeRequestDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/DataAccess_old.js" />
+        <option value="$PROJECT_DIR$/controllers/database/dbConnection.js" />
+        <option value="$PROJECT_DIR$/controllers/database/TicketTypeDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/CsatDB.js" />
+        <option value="$PROJECT_DIR$/controllers/SlaController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/FaqDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/AdminUserDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/slaDAO.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/controllers/database/holidayDAO.js" />
+        <option value="$PROJECT_DIR$/controllers/EmailTicketController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/EmailTicketDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/ReportConfiguratorDB.js" />
+        <option value="$PROJECT_DIR$/controllers/database/config.js" />
+        <option value="$PROJECT_DIR$/controllers/database/config.json" />
+        <option value="$PROJECT_DIR$/routeWay.js" />
+        <option value="$PROJECT_DIR$/controllers/PostController.js" />
+        <option value="$PROJECT_DIR$/controllers/MethodController.js" />
+        <option value="$PROJECT_DIR$/controllers/database/DataAccess.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="47" />
+    <option name="y" value="24" />
+    <option name="width" value="1319" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../IFIX_LNT/iFix_Web" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaa26e51-820d-4a6f-a8e7-ecb4b66f5b58" name="Default Changelist" comment="" />
+      <created>1539157120331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539157120331</updated>
+      <workItem from="1539157121661" duration="13719000" />
+      <workItem from="1539240709828" duration="10721000" />
+      <workItem from="1539276267691" duration="736000" />
+      <workItem from="1539324132057" duration="12932000" />
+      <workItem from="1539365254674" duration="1922000" />
+      <workItem from="1539414701683" duration="8463000" />
+      <workItem from="1539488918051" duration="7772000" />
+      <workItem from="1539581722021" duration="3948000" />
+      <workItem from="1539709855469" duration="3103000" />
+      <workItem from="1539881442722" duration="5125000" />
+      <workItem from="1540106378067" duration="11875000" />
+      <workItem from="1540209697920" duration="974000" />
+      <workItem from="1540211911979" duration="5881000" />
+      <workItem from="1540271756928" duration="2374000" />
+      <workItem from="1540312713018" duration="662000" />
+      <workItem from="1540359239884" duration="3129000" />
+      <workItem from="1540444877507" duration="9935000" />
+      <workItem from="1540486002433" duration="4651000" />
+      <workItem from="1540531486897" duration="7491000" />
+      <workItem from="1540561788238" duration="1491000" />
+      <workItem from="1540621047842" duration="4253000" />
+      <workItem from="1540639990508" duration="3954000" />
+      <workItem from="1540658069585" duration="3872000" />
+      <workItem from="1540731150037" duration="8111000" />
+      <workItem from="1540795859921" duration="14061000" />
+      <workItem from="1540878394544" duration="10106000" />
+      <workItem from="1541052493582" duration="12037000" />
+      <workItem from="1541140696453" duration="8526000" />
+      <workItem from="1541221873798" duration="4515000" />
+      <workItem from="1541334814066" duration="6768000" />
+      <workItem from="1541396748621" duration="4081000" />
+      <workItem from="1541484744126" duration="2793000" />
+      <workItem from="1541572118927" duration="1010000" />
+      <workItem from="1541655983305" duration="3599000" />
+      <workItem from="1541743100115" duration="16222000" />
+      <workItem from="1541781097678" duration="1315000" />
+      <workItem from="1541782426089" duration="4337000" />
+      <workItem from="1541826476450" duration="16221000" />
+      <workItem from="1541920649236" duration="2589000" />
+      <workItem from="1541925022181" duration="3446000" />
+      <workItem from="1542003990714" duration="6262000" />
+      <workItem from="1542084615048" duration="9529000" />
+      <workItem from="1542175306906" duration="15081000" />
+      <workItem from="1542259266549" duration="1075000" />
+      <workItem from="1542337899132" duration="10889000" />
+      <workItem from="1542389698298" duration="2330000" />
+      <workItem from="1542427886458" duration="7188000" />
+      <workItem from="1542545832544" duration="5032000" />
+      <workItem from="1542553565463" duration="4367000" />
+      <workItem from="1542611473303" duration="13561000" />
+      <workItem from="1542690622823" duration="8347000" />
+      <workItem from="1542776436681" duration="7446000" />
+      <workItem from="1542865099997" duration="4301000" />
+      <workItem from="1542954122479" duration="5298000" />
+      <workItem from="1542984645308" duration="1324000" />
+      <workItem from="1543042893854" duration="5242000" />
+      <workItem from="1543154695843" duration="6896000" />
+      <workItem from="1543216791038" duration="3556000" />
+      <workItem from="1543295513581" duration="6817000" />
+      <workItem from="1543381741356" duration="3214000" />
+      <workItem from="1543468168344" duration="13739000" />
+      <workItem from="1543641377125" duration="6341000" />
+      <workItem from="1543810517305" duration="2016000" />
+      <workItem from="1543843993557" duration="3105000" />
+      <workItem from="1543851986665" duration="4786000" />
+      <workItem from="1543999766052" duration="1767000" />
+      <workItem from="1544008553648" duration="6448000" />
+      <workItem from="1544073914487" duration="1218000" />
+      <workItem from="1544077098656" duration="8948000" />
+      <workItem from="1544159973200" duration="2832000" />
+      <workItem from="1544249731463" duration="2015000" />
+      <workItem from="1544434160048" duration="2218000" />
+      <workItem from="1544504930202" duration="2949000" />
+      <workItem from="1544590709312" duration="8155000" />
+      <workItem from="1544679726168" duration="11381000" />
+      <workItem from="1544765725408" duration="10405000" />
+      <workItem from="1544858673434" duration="6402000" />
+      <workItem from="1544948924375" duration="5320000" />
+      <workItem from="1544967320599" duration="3078000" />
+      <workItem from="1544970441336" duration="7109000" />
+      <workItem from="1545029653033" duration="5392000" />
+      <workItem from="1545038782480" duration="2072000" />
+      <workItem from="1545040865876" duration="2316000" />
+      <workItem from="1545050165021" duration="4930000" />
+      <workItem from="1545111286367" duration="16392000" />
+      <workItem from="1545194277155" duration="16489000" />
+      <workItem from="1545285107071" duration="14139000" />
+      <workItem from="1545376202045" duration="5357000" />
+      <workItem from="1545890028770" duration="3631000" />
+      <workItem from="1545895321643" duration="5077000" />
+      <workItem from="1545903118761" duration="6571000" />
+      <workItem from="1545913642681" duration="53000" />
+      <workItem from="1545916020306" duration="7537000" />
+      <workItem from="1545980038920" duration="9005000" />
+      <workItem from="1546059138322" duration="15926000" />
+      <workItem from="1546239828712" duration="13202000" />
+      <workItem from="1546328623732" duration="8235000" />
+      <workItem from="1546406342287" duration="18713000" />
+      <workItem from="1546490719678" duration="14091000" />
+      <workItem from="1546579544949" duration="12539000" />
+      <workItem from="1546846493626" duration="3375000" />
+      <workItem from="1546926250590" duration="6179000" />
+      <workItem from="1547011649078" duration="13645000" />
+      <workItem from="1547108643248" duration="10089000" />
+      <workItem from="1547191385304" duration="6671000" />
+      <workItem from="1547369862682" duration="144000" />
+      <workItem from="1547370079847" duration="1018000" />
+      <workItem from="1547448297551" duration="3848000" />
+      <workItem from="1547534496873" duration="5701000" />
+      <workItem from="1547621772000" duration="4705000" />
+      <workItem from="1547702942854" duration="5983000" />
+      <workItem from="1547789390435" duration="14033000" />
+      <workItem from="1547875183784" duration="12547000" />
+      <workItem from="1548053449501" duration="7264000" />
+      <workItem from="1548134239842" duration="6501000" />
+      <workItem from="1548221482092" duration="5925000" />
+      <workItem from="1548312608122" duration="6636000" />
+      <workItem from="1548395116950" duration="14404000" />
+      <workItem from="1548422575583" duration="909000" />
+      <workItem from="1548475593508" duration="11121000" />
+      <workItem from="1548917464591" duration="4074000" />
+      <workItem from="1549023414768" duration="1253000" />
+      <workItem from="1549086743812" duration="5980000" />
+      <workItem from="1549112856235" duration="102000" />
+      <workItem from="1549113205531" duration="2696000" />
+      <workItem from="1549208058023" duration="893000" />
+      <workItem from="1549264438534" duration="11857000" />
+      <workItem from="1549345857932" duration="2497000" />
+      <workItem from="1549428634957" duration="4833000" />
+      <workItem from="1549516073493" duration="7299000" />
+      <workItem from="1549605700338" duration="3838000" />
+      <workItem from="1549610394544" duration="4456000" />
+      <workItem from="1549690378600" duration="2382000" />
+      <workItem from="1549867895417" duration="3936000" />
+      <workItem from="1549953253930" duration="5057000" />
+      <workItem from="1550041813015" duration="9193000" />
+      <workItem from="1550120441612" duration="15969000" />
+      <workItem from="1550208529339" duration="11656000" />
+      <workItem from="1550299298910" duration="9422000" />
+      <workItem from="1550560177137" duration="11620000" />
+      <workItem from="1550641832850" duration="4882000" />
+      <workItem from="1550741583679" duration="2586000" />
+      <workItem from="1550831465356" duration="3261000" />
+      <workItem from="1550904072539" duration="12204000" />
+      <workItem from="1551076506617" duration="4355000" />
+      <workItem from="1551159639678" duration="1593000" />
+      <workItem from="1551250530391" duration="8115000" />
+      <workItem from="1551335057608" duration="10200000" />
+      <workItem from="1551423319662" duration="885000" />
+      <workItem from="1551509539768" duration="2424000" />
+      <workItem from="1551678694160" duration="345000" />
+      <workItem from="1551679092892" duration="679000" />
+      <workItem from="1551765391358" duration="4995000" />
+      <workItem from="1551851759391" duration="5724000" />
+      <workItem from="1551943741193" duration="2745000" />
+      <workItem from="1552018564792" duration="5438000" />
+      <workItem from="1552113357385" duration="7420000" />
+      <workItem from="1552294319785" duration="5796000" />
+      <workItem from="1552369711476" duration="6623000" />
+      <workItem from="1552454563643" duration="14905000" />
+      <workItem from="1552542815974" duration="11908000" />
+      <workItem from="1552715408714" duration="2161000" />
+      <workItem from="1552721481708" duration="8839000" />
+      <workItem from="1552892847957" duration="11547000" />
+      <workItem from="1552970997436" duration="8514000" />
+      <workItem from="1553060146627" duration="11057000" />
+      <workItem from="1553156781935" duration="766000" />
+      <workItem from="1553175828960" duration="3768000" />
+      <workItem from="1553236789329" duration="5835000" />
+      <workItem from="1553273640436" duration="12047000" />
+      <workItem from="1553497036805" duration="17333000" />
+      <workItem from="1553575830502" duration="11567000" />
+      <workItem from="1553668070759" duration="6332000" />
+      <workItem from="1553758092688" duration="1202000" />
+      <workItem from="1553777481961" duration="1316000" />
+      <workItem from="1553840084323" duration="5819000" />
+      <workItem from="1553873418224" duration="1202000" />
+      <workItem from="1553916261871" duration="12941000" />
+      <workItem from="1554034956508" duration="1178000" />
+      <workItem from="1554097796854" duration="10589000" />
+      <workItem from="1554185542981" duration="14704000" />
+      <workItem from="1554267924300" duration="15703000" />
+      <workItem from="1554345161535" duration="25918000" />
+      <workItem from="1554448155947" duration="8167000" />
+      <workItem from="1554536390270" duration="12240000" />
+      <workItem from="1554698625836" duration="4059000" />
+      <workItem from="1554786974162" duration="4952000" />
+      <workItem from="1554869366569" duration="886000" />
+      <workItem from="1554959799758" duration="6533000" />
+      <workItem from="1555041578273" duration="5120000" />
+      <workItem from="1555134152666" duration="5557000" />
+      <workItem from="1555394477907" duration="11590000" />
+      <workItem from="1555474219568" duration="17227000" />
+      <workItem from="1555564251472" duration="1956000" />
+      <workItem from="1555568426441" duration="18223000" />
+      <workItem from="1555646399740" duration="19608000" />
+      <workItem from="1555736868656" duration="775000" />
+      <workItem from="1555741319102" duration="21785000" />
+      <workItem from="1555838056095" duration="6791000" />
+      <workItem from="1555867087396" duration="3861000" />
+      <workItem from="1555911141026" duration="15764000" />
+      <workItem from="1555996712974" duration="31340000" />
+      <workItem from="1556078670173" duration="17167000" />
+      <workItem from="1556167404935" duration="21799000" />
+      <workItem from="1556251254833" duration="27415000" />
+      <workItem from="1556308136210" duration="1076000" />
+      <workItem from="1556339954847" duration="18911000" />
+      <workItem from="1556517172481" duration="1426000" />
+      <workItem from="1556533579791" duration="407000" />
+      <workItem from="1556534154188" duration="11306000" />
+      <workItem from="1556597454840" duration="16942000" />
+      <workItem from="1556696683758" duration="11531000" />
+      <workItem from="1556776001408" duration="15102000" />
+      <workItem from="1556814366539" duration="3564000" />
+      <workItem from="1556860140992" duration="3999000" />
+      <workItem from="1556878524048" duration="4760000" />
+      <workItem from="1556894054172" duration="13627000" />
+      <workItem from="1556943027492" duration="23022000" />
+      <workItem from="1557056460384" duration="493000" />
+      <workItem from="1557071924796" duration="7942000" />
+      <workItem from="1557116795203" duration="2819000" />
+      <workItem from="1557134025689" duration="589000" />
+      <workItem from="1557135661661" duration="2796000" />
+      <workItem from="1557142855690" duration="196000" />
+      <workItem from="1557208139849" duration="16548000" />
+      <workItem from="1557292060052" duration="13911000" />
+      <workItem from="1557315261284" duration="11559000" />
+      <workItem from="1557375311925" duration="18372000" />
+      <workItem from="1557474808719" duration="10491000" />
+      <workItem from="1557553732376" duration="11000" />
+      <workItem from="1557554237369" duration="5399000" />
+      <workItem from="1557588102818" duration="10179000" />
+      <workItem from="1557668168725" duration="11516000" />
+      <workItem from="1557730398922" duration="7777000" />
+      <workItem from="1557811833183" duration="15095000" />
+      <workItem from="1557844712227" duration="3272000" />
+      <workItem from="1557900187006" duration="10181000" />
+      <workItem from="1557912579145" duration="11340000" />
+      <workItem from="1557979308298" duration="22850000" />
+      <workItem from="1558070324017" duration="13648000" />
+      <workItem from="1558108564722" duration="2474000" />
+      <workItem from="1558153939116" duration="16158000" />
+      <workItem from="1558260985798" duration="5913000" />
+      <workItem from="1558281724288" duration="3589000" />
+      <workItem from="1558335052295" duration="3640000" />
+      <workItem from="1558342191107" duration="12642000" />
+      <workItem from="1558414835833" duration="1902000" />
+      <workItem from="1558452802571" duration="1986000" />
+      <workItem from="1558497512593" duration="1892000" />
+      <workItem from="1558588913163" duration="6174000" />
+      <workItem from="1558687351214" duration="2919000" />
+      <workItem from="1558940270102" duration="9155000" />
+      <workItem from="1559024884523" duration="1606000" />
+      <workItem from="1559208817288" duration="8266000" />
+      <workItem from="1559285767257" duration="11019000" />
+      <workItem from="1559308495862" duration="3225000" />
+      <workItem from="1559368199107" duration="10135000" />
+      <workItem from="1559545390281" duration="8017000" />
+      <workItem from="1559568512254" duration="4037000" />
+      <workItem from="1559627964479" duration="8529000" />
+      <workItem from="1559719518429" duration="1074000" />
+      <workItem from="1559723350212" duration="1839000" />
+      <workItem from="1559729436659" duration="6785000" />
+      <workItem from="1559746413887" duration="600000" />
+      <workItem from="1559800398447" duration="3819000" />
+      <workItem from="1559816087691" duration="1857000" />
+      <workItem from="1559830061296" duration="597000" />
+      <workItem from="1559885653018" duration="11857000" />
+      <workItem from="1559925637047" duration="1226000" />
+      <workItem from="1559966373592" duration="2900000" />
+      <workItem from="1560062756351" duration="3117000" />
+      <workItem from="1560150044448" duration="10435000" />
+      <workItem from="1560232253174" duration="13562000" />
+      <workItem from="1560324951464" duration="11343000" />
+      <workItem from="1560405475466" duration="8679000" />
+      <workItem from="1560491589512" duration="6555000" />
+      <workItem from="1560505130021" duration="6935000" />
+      <workItem from="1560582424164" duration="10242000" />
+      <workItem from="1560754187933" duration="2844000" />
+      <workItem from="1560762393828" duration="10398000" />
+      <workItem from="1560779106037" duration="1792000" />
+      <workItem from="1560836491671" duration="6236000" />
+      <workItem from="1560855192741" duration="2675000" />
+      <workItem from="1560920110899" duration="7774000" />
+      <workItem from="1560941414334" duration="1847000" />
+      <workItem from="1561016947680" duration="5778000" />
+      <workItem from="1561097761031" duration="5137000" />
+      <workItem from="1561187499339" duration="2193000" />
+      <workItem from="1561210300792" duration="1687000" />
+      <workItem from="1561286890034" duration="2188000" />
+      <workItem from="1561304153114" duration="2608000" />
+      <workItem from="1561360339892" duration="3361000" />
+      <workItem from="1561370510995" duration="10880000" />
+      <workItem from="1561442642896" duration="11125000" />
+      <workItem from="1561529313614" duration="16213000" />
+      <workItem from="1561615710229" duration="19805000" />
+      <workItem from="1561695959985" duration="9910000" />
+      <workItem from="1561790713755" duration="17518000" />
+      <workItem from="1561963091972" duration="10541000" />
+      <workItem from="1562138109967" duration="10501000" />
+      <workItem from="1562215908884" duration="6758000" />
+      <workItem from="1562308932754" duration="13946000" />
+      <workItem from="1562394847671" duration="3332000" />
+      <workItem from="1562565565089" duration="16621000" />
+      <workItem from="1562652870361" duration="13829000" />
+      <workItem from="1562738469299" duration="5797000" />
+      <workItem from="1562755409012" duration="7433000" />
+      <workItem from="1562829873565" duration="5574000" />
+      <workItem from="1562837826825" duration="1719000" />
+      <workItem from="1562840156150" duration="1946000" />
+      <workItem from="1562913554226" duration="12751000" />
+      <workItem from="1562995270122" duration="1193000" />
+      <workItem from="1563036832769" duration="851000" />
+      <workItem from="1563173398172" duration="6995000" />
+      <workItem from="1563266985549" duration="2052000" />
+      <workItem from="1563342711311" duration="12225000" />
+      <workItem from="1563425730019" duration="16242000" />
+      <workItem from="1563517023385" duration="6072000" />
+      <workItem from="1563604045902" duration="7810000" />
+      <workItem from="1563777964052" duration="6105000" />
+      <workItem from="1563865425916" duration="6364000" />
+      <workItem from="1563949604096" duration="2997000" />
+      <workItem from="1564033169913" duration="3692000" />
+      <workItem from="1564044862538" duration="3158000" />
+      <workItem from="1564113716533" duration="5679000" />
+      <workItem from="1564136135481" duration="5639000" />
+      <workItem from="1564151597734" duration="1268000" />
+      <workItem from="1564217476664" duration="3189000" />
+      <workItem from="1564286892707" duration="4986000" />
+      <workItem from="1564321949462" duration="667000" />
+      <workItem from="1564382967234" duration="7038000" />
+      <workItem from="1564470508553" duration="8152000" />
+      <workItem from="1564555660053" duration="9950000" />
+      <workItem from="1564576827087" duration="9184000" />
+      <workItem from="1564644106949" duration="1310000" />
+      <workItem from="1564656301952" duration="5618000" />
+      <workItem from="1564664765322" duration="6037000" />
+      <workItem from="1564727128441" duration="13487000" />
+      <workItem from="1564818125351" duration="11190000" />
+      <workItem from="1564841392001" duration="4754000" />
+      <workItem from="1564854368941" duration="118000" />
+      <workItem from="1565072414144" duration="3339000" />
+      <workItem from="1565158613649" duration="4670000" />
+      <workItem from="1565174369882" duration="3540000" />
+      <workItem from="1565248439294" duration="3323000" />
+      <workItem from="1565261864185" duration="5451000" />
+      <workItem from="1565333851377" duration="5367000" />
+      <workItem from="1565357646954" duration="2700000" />
+      <workItem from="1565590291102" duration="4015000" />
+      <workItem from="1565605024904" duration="3532000" />
+      <workItem from="1565683769364" duration="6562000" />
+      <workItem from="1565761118407" duration="3508000" />
+      <workItem from="1565780415980" duration="4423000" />
+      <workItem from="1565934280026" duration="120000" />
+      <workItem from="1565934442096" duration="4802000" />
+      <workItem from="1566024610615" duration="4921000" />
+      <workItem from="1566197240964" duration="5537000" />
+      <workItem from="1566280416498" duration="7700000" />
+      <workItem from="1566304308812" duration="2504000" />
+      <workItem from="1566365631465" duration="15210000" />
+      <workItem from="1566471484336" duration="9637000" />
+      <workItem from="1566536271700" duration="16275000" />
+      <workItem from="1566632399344" duration="1284000" />
+      <workItem from="1566882635833" duration="2114000" />
+      <workItem from="1566891021364" duration="9587000" />
+      <workItem from="1566972236233" duration="17514000" />
+      <workItem from="1567003321593" duration="7362000" />
+      <workItem from="1567045819872" duration="13636000" />
+      <workItem from="1567091113375" duration="99000" />
+      <workItem from="1567147523105" duration="6909000" />
+      <workItem from="1567184915390" duration="967000" />
+      <workItem from="1567227140707" duration="1361000" />
+      <workItem from="1567408177828" duration="8370000" />
+      <workItem from="1567512599483" duration="2945000" />
+      <workItem from="1567570805702" duration="9396000" />
+      <workItem from="1567663446427" duration="6494000" />
+      <workItem from="1567842536919" duration="2267000" />
+      <workItem from="1567917230679" duration="95000" />
+      <workItem from="1568012722978" duration="8947000" />
+      <workItem from="1568089916623" duration="3652000" />
+      <workItem from="1568355575765" duration="1914000" />
+      <workItem from="1568358431367" duration="9234000" />
+      <workItem from="1568444741076" duration="5024000" />
+      <workItem from="1568616025615" duration="12978000" />
+      <workItem from="1568706637978" duration="6918000" />
+      <workItem from="1568786546781" duration="14359000" />
+      <workItem from="1568870530289" duration="7373000" />
+      <workItem from="1568892951682" duration="5757000" />
+      <workItem from="1568953381462" duration="3190000" />
+      <workItem from="1568973135126" duration="12345000" />
+      <workItem from="1569050790368" duration="1365000" />
+      <workItem from="1569060671798" duration="1390000" />
+      <workItem from="1569072846376" duration="2782000" />
+      <workItem from="1569158253371" duration="1403000" />
+      <workItem from="1569222562729" duration="6980000" />
+      <workItem from="1569237747737" duration="4075000" />
+      <workItem from="1569306310717" duration="2662000" />
+      <workItem from="1569395819799" duration="4473000" />
+      <workItem from="1569480795718" duration="1443000" />
+      <workItem from="1569487709328" duration="8379000" />
+      <workItem from="1569575768787" duration="5648000" />
+      <workItem from="1569669512409" duration="1404000" />
+      <workItem from="1569825210456" duration="14500000" />
+      <workItem from="1569860618037" duration="1809000" />
+      <workItem from="1569905524783" duration="14966000" />
+      <workItem from="1570083123208" duration="13230000" />
+      <workItem from="1570111185401" duration="616000" />
+      <workItem from="1570176342202" duration="13000" />
+      <workItem from="1570211287857" duration="2979000" />
+      <workItem from="1570254552396" duration="731000" />
+      <workItem from="1570594671275" duration="4001000" />
+      <workItem from="1570692559772" duration="4695000" />
+      <workItem from="1570703948838" duration="3999000" />
+      <workItem from="1570779198491" duration="3298000" />
+      <workItem from="1570801089444" duration="482000" />
+      <workItem from="1570863483983" duration="826000" />
+      <workItem from="1570866320092" duration="1986000" />
+      <workItem from="1571035067640" duration="7579000" />
+      <workItem from="1571120528906" duration="9500000" />
+      <workItem from="1571206543264" duration="2589000" />
+      <workItem from="1571220964391" duration="2718000" />
+      <workItem from="1571297458408" duration="3563000" />
+      <workItem from="1571378719487" duration="8113000" />
+      <workItem from="1571651805879" duration="4659000" />
+      <workItem from="1571725446731" duration="9527000" />
+      <workItem from="1571813403977" duration="9079000" />
+      <workItem from="1571835243179" duration="5789000" />
+      <workItem from="1571897357001" duration="19582000" />
+      <workItem from="1571991966999" duration="3304000" />
+      <workItem from="1572108233749" duration="3967000" />
+      <workItem from="1572337815051" duration="8513000" />
+      <workItem from="1572415834056" duration="13084000" />
+      <workItem from="1572503115030" duration="9574000" />
+      <workItem from="1572517710983" duration="7086000" />
+      <workItem from="1572585576492" duration="6057000" />
+      <workItem from="1572611338357" duration="5002000" />
+      <workItem from="1572672790345" duration="2648000" />
+      <workItem from="1572681053249" duration="7096000" />
+      <workItem from="1572931907829" duration="35437000" />
+      <workItem from="1573119781295" duration="25652000" />
+      <workItem from="1573301383046" duration="3789000" />
+      <workItem from="1573454153619" duration="22783000" />
+      <workItem from="1573552487094" duration="12651000" />
+      <workItem from="1573703961055" duration="15183000" />
+      <workItem from="1573743034675" duration="2164000" />
+      <workItem from="1573752956292" duration="616000" />
+      <workItem from="1573792075161" duration="14842000" />
+      <workItem from="1573887783044" duration="3943000" />
+      <workItem from="1574068461652" duration="4750000" />
+      <workItem from="1574081970954" duration="1573000" />
+      <workItem from="1574141992560" duration="13006000" />
+      <workItem from="1574230585702" duration="11549000" />
+      <workItem from="1574320127905" duration="4921000" />
+      <workItem from="1574406574182" duration="1090000" />
+      <workItem from="1574664745551" duration="7682000" />
+      <workItem from="1574766873538" duration="625000" />
+      <workItem from="1574833129988" duration="626000" />
+      <workItem from="1574839493594" duration="652000" />
+      <workItem from="1574861310379" duration="3488000" />
+      <workItem from="1574921013796" duration="8161000" />
+      <workItem from="1575009396305" duration="1758000" />
+      <workItem from="1575021115650" duration="617000" />
+      <workItem from="1575093222091" duration="6126000" />
+      <workItem from="1575197500886" duration="149000" />
+      <workItem from="1575450216817" duration="2449000" />
+      <workItem from="1575531483735" duration="1187000" />
+      <workItem from="1575547745936" duration="3286000" />
+      <workItem from="1575617725820" duration="4591000" />
+      <workItem from="1575706745246" duration="866000" />
+      <workItem from="1575709094982" duration="2401000" />
+      <workItem from="1575878145957" duration="285000" />
+      <workItem from="1575916225064" duration="525000" />
+      <workItem from="1575957780755" duration="5050000" />
+      <workItem from="1576045038354" duration="17779000" />
+      <workItem from="1576204751127" duration="9859000" />
+      <workItem from="1576236877116" duration="4139000" />
+      <workItem from="1576476981800" duration="54756000" />
+      <workItem from="1576776814591" duration="944000" />
+      <workItem from="1576808404423" duration="9133000" />
+      <workItem from="1576848273327" duration="4797000" />
+      <workItem from="1576907499672" duration="11899000" />
+      <workItem from="1577071559380" duration="21494000" />
+      <workItem from="1577264209117" duration="29546000" />
+      <workItem from="1578295366738" duration="7892000" />
+      <workItem from="1578332519156" duration="12818000" />
+      <workItem from="1578404160964" duration="15580000" />
+      <workItem from="1578537120025" duration="2133000" />
+      <workItem from="1578563967210" duration="9148000" />
+      <workItem from="1578636576686" duration="9729000" />
+      <workItem from="1578898959153" duration="9697000" />
+      <workItem from="1578981627103" duration="10691000" />
+      <workItem from="1579069296132" duration="2233000" />
+      <workItem from="1579156650434" duration="8791000" />
+      <workItem from="1579325997225" duration="5483000" />
+      <workItem from="1579501297604" duration="16746000" />
+      <workItem from="1579593824614" duration="4748000" />
+      <workItem from="1579612425820" duration="570000" />
+      <workItem from="1579673506835" duration="14459000" />
+      <workItem from="1579758876078" duration="1363000" />
+      <workItem from="1579833491001" duration="13150000" />
+      <workItem from="1579887185659" duration="1823000" />
+      <workItem from="1580007715625" duration="1200000" />
+      <workItem from="1580106761880" duration="29203000" />
+      <workItem from="1580220515247" duration="8576000" />
+      <workItem from="1580367962299" duration="10654000" />
+      <workItem from="1580451874797" duration="11072000" />
+      <workItem from="1580476759549" duration="11000" />
+      <workItem from="1580619436439" duration="3965000" />
+      <workItem from="1580710861710" duration="10891000" />
+      <workItem from="1580797790891" duration="2422000" />
+      <workItem from="1580816881733" duration="2553000" />
+      <workItem from="1580881490962" duration="12048000" />
+      <workItem from="1581055016216" duration="3801000" />
+      <workItem from="1581070807979" duration="1461000" />
+      <workItem from="1581262602992" duration="2368000" />
+      <workItem from="1581315648832" duration="34674000" />
+      <workItem from="1581574491420" duration="6585000" />
+      <workItem from="1581645887837" duration="6607000" />
+      <workItem from="1581688458670" duration="1076000" />
+      <workItem from="1582100149961" duration="5300000" />
+      <workItem from="1582165648911" duration="11932000" />
+      <workItem from="1582209029620" duration="177000" />
+      <workItem from="1582209510380" duration="1371000" />
+      <workItem from="1582265764449" duration="11653000" />
+      <workItem from="1582368224833" duration="15923000" />
+      <workItem from="1582515836241" duration="32000" />
+      <workItem from="1582526648019" duration="3905000" />
+      <workItem from="1582617355001" duration="1346000" />
+      <workItem from="1582705165384" duration="443000" />
+      <workItem from="1582709225176" duration="1217000" />
+      <workItem from="1582722069552" duration="5406000" />
+      <workItem from="1582784466104" duration="590000" />
+      <workItem from="1582792249344" duration="3228000" />
+      <workItem from="1582807394582" duration="452000" />
+      <workItem from="1582875691697" duration="630000" />
+      <workItem from="1582877116377" duration="221000" />
+      <workItem from="1582893293126" duration="2106000" />
+      <workItem from="1583138911016" duration="6294000" />
+      <workItem from="1583216417231" duration="4226000" />
+      <workItem from="1583242710509" duration="1553000" />
+      <workItem from="1583287162543" duration="5990000" />
+      <workItem from="1583384851390" duration="10751000" />
+      <workItem from="1583476139524" duration="8837000" />
+      <workItem from="1583505979101" duration="522000" />
+      <workItem from="1583540941081" duration="15566000" />
+      <workItem from="1583586661960" duration="1853000" />
+      <workItem from="1583649709599" duration="321000" />
+      <workItem from="1583686528385" duration="555000" />
+      <workItem from="1583820749063" duration="17100000" />
+      <workItem from="1583906910459" duration="188000" />
+      <workItem from="1586931809319" duration="12241000" />
+      <workItem from="1588135621015" duration="16452000" />
+      <workItem from="1588185920682" duration="1919000" />
+      <workItem from="1588229470373" duration="4614000" />
+      <workItem from="1588314759241" duration="3332000" />
+      <workItem from="1588389912194" duration="5363000" />
+      <workItem from="1588417955395" duration="4852000" />
+      <workItem from="1588479636299" duration="2739000" />
+      <workItem from="1588593166804" duration="806000" />
+      <workItem from="1588671220261" duration="2062000" />
+      <workItem from="1588704320533" duration="232000" />
+      <workItem from="1588738944705" duration="9701000" />
+      <workItem from="1588821588671" duration="802000" />
+      <workItem from="1588829076585" duration="14313000" />
+      <workItem from="1588858397376" duration="2327000" />
+      <workItem from="1588902094524" duration="1005000" />
+      <workItem from="1588907716856" duration="638000" />
+      <workItem from="1589551533697" duration="1676000" />
+      <workItem from="1589967636567" duration="2054000" />
+      <workItem from="1591078766388" duration="5487000" />
+      <workItem from="1591155746064" duration="2239000" />
+      <workItem from="1591171317705" duration="7364000" />
+      <workItem from="1591244849849" duration="7744000" />
+      <workItem from="1591260509509" duration="5918000" />
+      <workItem from="1591325963784" duration="9711000" />
+      <workItem from="1591413864805" duration="7459000" />
+      <workItem from="1591596881648" duration="10307000" />
+      <workItem from="1591856341546" duration="636000" />
+      <workItem from="1591894396077" duration="496000" />
+      <workItem from="1591936251277" duration="602000" />
+      <workItem from="1591942865602" duration="10873000" />
+      <workItem from="1592054121172" duration="4234000" />
+      <workItem from="1592193220945" duration="6105000" />
+      <workItem from="1592236490078" duration="885000" />
+      <workItem from="1592274408255" duration="6201000" />
+      <workItem from="1592301856377" duration="6110000" />
+      <workItem from="1592377067344" duration="9793000" />
+      <workItem from="1592460944892" duration="3868000" />
+      <workItem from="1592565518999" duration="3160000" />
+      <workItem from="1592630082122" duration="1320000" />
+      <workItem from="1593503326816" duration="3374000" />
+      <workItem from="1593670962103" duration="231000" />
+      <workItem from="1593850263494" duration="933000" />
+      <workItem from="1593853342990" duration="5471000" />
+      <workItem from="1593967587929" duration="533000" />
+      <workItem from="1594011547319" duration="177000" />
+      <workItem from="1594011908607" duration="699000" />
+      <workItem from="1594049197852" duration="348000" />
+      <workItem from="1594105407440" duration="455000" />
+      <workItem from="1594611200023" duration="4894000" />
+      <workItem from="1595388674432" duration="733000" />
+      <workItem from="1598693642066" duration="3510000" />
+      <workItem from="1598704503474" duration="2149000" />
+      <workItem from="1598716575262" duration="11000" />
+      <workItem from="1598725978473" duration="1696000" />
+      <workItem from="1603882211885" duration="1952000" />
+      <workItem from="1605265812574" duration="134000" />
+      <workItem from="1605615461714" duration="3382000" />
+      <workItem from="1605626934429" duration="620000" />
+      <workItem from="1605705630103" duration="158000" />
+      <workItem from="1605796448725" duration="1472000" />
+      <workItem from="1606461087459" duration="1360000" />
+      <workItem from="1607065814012" duration="922000" />
+      <workItem from="1607410325158" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4160654000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21081504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3258595" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32884902" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980362" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21081504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3258595" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32868218" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32884902" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24980362" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/middlewares/corsMiddleWare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Entity/ChecklistEntity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="20" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ChecklistController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AssetManagementColumnDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AssetValidationDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AssetReportDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AssetManagementMasterDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AssetDescription.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Entity/AssetManagementValueEntity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/UrlCreationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/UrlCreationDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="160" column="1" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Entity/TicketTypeEntity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="22" selection-start-line="85" selection-start-column="22" selection-end-line="85" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/StatusDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/AdminUserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/ChecklistDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="169" column="173" selection-start-line="169" selection-start-column="17" selection-end-line="169" selection-end-column="173" />
+          <folding>
+            <element signature="n#!!block;n#getChecklist#0" />
+            <element signature="n#!!block;n#editChecklist#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/Entity/RoleEntity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/RoleController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="150" column="2" selection-start-line="150" selection-start-column="2" selection-end-line="150" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/TicketTypeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="86" column="6" selection-start-line="86" selection-start-column="6" selection-end-line="86" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/EscalatePrcessConfigDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="18" selection-start-line="65" selection-start-column="18" selection-end-line="65" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/AssetManagementController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="413" column="42" selection-start-line="413" selection-start-column="26" selection-end-line="413" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/autoTicketDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="126" column="7" selection-start-line="126" selection-start-column="7" selection-end-line="126" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!block;n#getScheduleTicket#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AssetManagementValueDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="469" selection-start-line="469" selection-end-line="469" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/CsatController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ChangeRequestController.js" />
+    <entry file="file://$PROJECT_DIR$/controllers/database/ChangeRequestDB.js" />
+    <entry file="file://$PROJECT_DIR$/controllers/database/DataAccess_old.js" />
+    <entry file="file://$PROJECT_DIR$/controllers/database/roleDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="289" column="9" lean-forward="true" selection-start-line="289" selection-start-column="9" selection-end-line="289" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/inspire/core/postForm.js" />
+    <entry file="file://$PROJECT_DIR$/controllers/database/CsatDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="132" column="5" selection-start-line="132" selection-start-column="5" selection-end-line="132" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/TicketTypeDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="308" column="123" selection-start-line="308" selection-start-column="123" selection-end-line="308" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/ReportConfiguratorController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="112" column="46" selection-start-line="112" selection-start-column="46" selection-end-line="112" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/dbConnection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/FaqDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/AdminUserDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="72" selection-start-line="72" selection-end-line="89" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#editUserMst#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/AutoTicketController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="2" selection-start-line="82" selection-start-column="2" selection-end-line="82" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/HolidayController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/SlaController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="2" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="48" column="34" lean-forward="true" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/DataAccess_1.js" />
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/controllers/database/holidayDAO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2985">
+          <caret line="199" column="24" selection-start-line="199" selection-start-column="24" selection-end-line="199" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/slaDAO.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="182" column="33" selection-start-line="182" selection-start-column="33" selection-end-line="182" selection-end-column="33" />
+          <folding>
+            <element signature="e#17776#20121#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/EmailTicketController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="143" column="41" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/EmailTicketDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="378" column="9" selection-start-line="378" selection-start-column="9" selection-end-line="378" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!block;n#allEmailTicketKeyword#0" />
+            <element signature="n#!!block;n#insertEmailTicketKeyword#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/ReportConfiguratorDB.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23235">
+          <caret line="1549" column="27" selection-start-line="1549" selection-start-column="13" selection-end-line="1549" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!block;n#getTrendReport#0" />
+            <element signature="n#!!block;n#getHeatmapReport#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/PostController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51015">
+          <caret line="3501" column="15" selection-start-line="3501" selection-start-column="15" selection-end-line="3501" selection-end-column="15" />
+          <folding>
+            <element signature="e#136635#142182#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/MethodController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61695">
+          <caret line="4113" selection-start-line="4113" selection-end-line="4113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routeWay.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45240">
+          <caret line="3016" column="50" selection-start-line="3016" selection-start-column="50" selection-end-line="3016" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/database/DataAccess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1955">
+          <caret line="38336" column="1" lean-forward="true" selection-start-line="38336" selection-start-column="1" selection-end-line="38336" selection-end-column="1" />
+          <folding>
+            <element signature="e#1694129#1703618#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
